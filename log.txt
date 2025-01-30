@@ -86,3 +86,15 @@
 [2025-01-30 15:28:16] Copiado: Informe_Mensual_Unidades.xlsx
 [2025-01-30 15:28:16] Copiado: PARADAS_UNIDADES.xlsx
 [2025-01-30 15:28:16] Copiado: PARADAS_UNIDADES_COORD.xlsx
+[2025-01-30 15:28:17] Archivos añadidos a Git.
+[2025-01-30 15:28:17] Commit realizado.
+[2025-01-30 15:28:19] Push realizado con éxito.
+[2025-01-30 15:28:19] === FIN DE LA ACTUALIZACIÓN ===
+
+[2025-01-30 15:32:17] === INICIO DE LA ACTUALIZACIÓN ===
+[2025-01-30 15:32:17] Copiado: eventos_diario.xlsx
+[2025-01-30 15:32:17] Copiado: eventos_mensual.xlsx
+[2025-01-30 15:32:17] Copiado: Informe_Diario_Unidades.xlsx
+[2025-01-30 15:32:17] Copiado: Informe_Mensual_Unidades.xlsx
+[2025-01-30 15:32:17] Copiado: PARADAS_UNIDADES.xlsx
+[2025-01-30 15:32:17] Copiado: PARADAS_UNIDADES_COORD.xlsx
