@@ -98,3 +98,8 @@
 [2025-01-30 15:32:17] Copiado: Informe_Mensual_Unidades.xlsx
 [2025-01-30 15:32:17] Copiado: PARADAS_UNIDADES.xlsx
 [2025-01-30 15:32:17] Copiado: PARADAS_UNIDADES_COORD.xlsx
+[2025-01-30 15:32:17] Archivos añadidos a Git.
+[2025-01-30 15:32:18] Commit realizado.
+[2025-01-30 15:32:20] Push realizado con éxito.
+[2025-01-30 15:32:20] === FIN DE LA ACTUALIZACIÓN ===
+
