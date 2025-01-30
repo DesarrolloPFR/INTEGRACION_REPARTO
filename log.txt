@@ -12,3 +12,17 @@
 [2025-01-30 15:00:50] Copiado: Informe_Mensual_Unidades.xlsx
 [2025-01-30 15:00:50] Copiado: PARADAS_UNIDADES.xlsx
 [2025-01-30 15:00:50] Copiado: PARADAS_UNIDADES_COORD.xlsx
+[2025-01-30 15:00:50] Archivos añadidos a Git.
+[2025-01-30 15:00:51] Commit realizado.
+[2025-01-30 15:01:13] Error en Git: Cmd('git') failed due to: exit code(128)
+  cmdline: git push --porcelain -- origin
+  stderr: 'fatal: Authentication failed for 'https://github.com/DesarrolloPFR/INTEGRACION_REPARTO.git/''
+[2025-01-30 15:01:13] === FIN DE LA ACTUALIZACIÓN ===
+
+[2025-01-30 15:12:01] === INICIO DE LA ACTUALIZACIÓN ===
+[2025-01-30 15:12:01] Copiado: eventos_diario.xlsx
+[2025-01-30 15:12:01] Copiado: eventos_mensual.xlsx
+[2025-01-30 15:12:01] Copiado: Informe_Diario_Unidades.xlsx
+[2025-01-30 15:12:01] Copiado: Informe_Mensual_Unidades.xlsx
+[2025-01-30 15:12:01] Copiado: PARADAS_UNIDADES.xlsx
+[2025-01-30 15:12:01] Copiado: PARADAS_UNIDADES_COORD.xlsx
