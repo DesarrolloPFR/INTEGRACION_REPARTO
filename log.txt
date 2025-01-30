@@ -1,0 +1,14 @@
+[2025-01-30 15:00:22] === INICIO DE LA ACTUALIZACIÓN ===
+[2025-01-30 15:00:22] Copiado: eventos_diario.xlsx
+[2025-01-30 15:00:22] Copiado: eventos_mensual.xlsx
+[2025-01-30 15:00:22] Copiado: Informe_Diario_Unidades.xlsx
+[2025-01-30 15:00:22] Copiado: Informe_Mensual_Unidades.xlsx
+[2025-01-30 15:00:22] Copiado: PARADAS_UNIDADES.xlsx
+[2025-01-30 15:00:22] Copiado: PARADAS_UNIDADES_COORD.xlsx
+[2025-01-30 15:00:50] === INICIO DE LA ACTUALIZACIÓN ===
+[2025-01-30 15:00:50] Copiado: eventos_diario.xlsx
+[2025-01-30 15:00:50] Copiado: eventos_mensual.xlsx
+[2025-01-30 15:00:50] Copiado: Informe_Diario_Unidades.xlsx
+[2025-01-30 15:00:50] Copiado: Informe_Mensual_Unidades.xlsx
+[2025-01-30 15:00:50] Copiado: PARADAS_UNIDADES.xlsx
+[2025-01-30 15:00:50] Copiado: PARADAS_UNIDADES_COORD.xlsx
